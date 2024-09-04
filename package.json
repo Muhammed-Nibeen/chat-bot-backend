@@ -5,12 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
-    "start": "node --exec ts-node server.ts"
-=======
-    "start": "nodemon --exec ts-node server.ts",
+    "start": "node --exec ts-node server.ts",
     "build": "tsc"
->>>>>>> 971e6571bc9a07c4a0b442a1effe5bd59d4daeb8
   },
   "keywords": [],
   "author": "",
