@@ -19,6 +19,7 @@
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^9.0.2",
     "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4",
     "socket.io": "^4.7.5"
   },
   "devDependencies": {
@@ -29,7 +30,6 @@
     "@types/mongoose": "^5.11.97",
     "@types/node": "^22.5.0",
     "@types/nodemailer": "^6.4.15",
-    "nodemon": "^3.1.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   }
